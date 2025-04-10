@@ -102,3 +102,4 @@ C:\Users\dimab\OneDrive\Desktop\SeleniumForPractice\firstSeleniumTest\bin\Debug\
 C:\Users\dimab\OneDrive\Desktop\SeleniumForPractice\firstSeleniumTest\bin\Debug\net9.0\selenium-manager\windows\selenium-manager.exe
 C:\Users\dimab\OneDrive\Desktop\SeleniumForPractice\firstSeleniumTest\bin\Debug\net9.0\WebDriver.dll
 C:\Users\dimab\OneDrive\Desktop\SeleniumForPractice\firstSeleniumTest\bin\Debug\net9.0\SeleniumExtras.WaitHelpers.dll
+C:\Users\dimab\OneDrive\Desktop\SeleniumForPractice\firstSeleniumTest\obj\Debug\net9.0\firstSeleniumTest.sourcelink.json
