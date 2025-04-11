@@ -9,6 +9,7 @@
       "firstSeleniumTest/1.0.0": {
         "dependencies": {
           "DotNetSeleniumExtras.WaitHelpers": "3.11.0",
+          "FluentAssertions": "8.2.0",
           "Microsoft.NET.Test.Sdk": "17.12.0",
           "NUnit": "4.2.2",
           "NUnit.Analyzers": "4.4.0",
@@ -29,6 +30,14 @@
           "lib/netstandard2.0/SeleniumExtras.WaitHelpers.dll": {
             "assemblyVersion": "3.11.0.0",
             "fileVersion": "3.11.0.0"
+          }
+        }
+      },
+      "FluentAssertions/8.2.0": {
+        "runtime": {
+          "lib/net6.0/FluentAssertions.dll": {
+            "assemblyVersion": "8.2.0.0",
+            "fileVersion": "8.2.0.0"
           }
         }
       },
@@ -344,6 +353,13 @@
       "sha512": "sha512-xc6jVVl5ymgk3ZNWnC/KHxkEup1QpnwYbrwF+NQoCOGERsD8YMlLwmsX4lGhLXCLo/YQTRTIwlKCN9E/doGUNg==",
       "path": "dotnetseleniumextras.waithelpers/3.11.0",
       "hashPath": "dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512"
+    },
+    "FluentAssertions/8.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Gh4jkECcrR0i17ofCVqsiVz2+lxC+p5TYFPCrbZFi7eQQWGEZhvCDwvhycBKX1Kmtbd+H2CW/ugW7wdH9Br9NQ==",
+      "path": "fluentassertions/8.2.0",
+      "hashPath": "fluentassertions.8.2.0.nupkg.sha512"
     },
     "Microsoft.CodeCoverage/17.12.0": {
       "type": "package",

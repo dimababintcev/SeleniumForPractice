@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "y/4vstiO+Us=",
+  "dgSpecHash": "i4qMuQKzTAk=",
   "success": true,
   "projectFilePath": "C:\\Users\\dimab\\OneDrive\\Desktop\\SeleniumForPractice\\firstSeleniumTest\\firstSeleniumTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dimab\\.nuget\\packages\\coverlet.collector\\6.0.2\\coverlet.collector.6.0.2.nupkg.sha512",
     "C:\\Users\\dimab\\.nuget\\packages\\dotnetseleniumextras.waithelpers\\3.11.0\\dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",
+    "C:\\Users\\dimab\\.nuget\\packages\\fluentassertions\\8.2.0\\fluentassertions.8.2.0.nupkg.sha512",
     "C:\\Users\\dimab\\.nuget\\packages\\microsoft.codecoverage\\17.12.0\\microsoft.codecoverage.17.12.0.nupkg.sha512",
     "C:\\Users\\dimab\\.nuget\\packages\\microsoft.net.test.sdk\\17.12.0\\microsoft.net.test.sdk.17.12.0.nupkg.sha512",
     "C:\\Users\\dimab\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.12.0\\microsoft.testplatform.objectmodel.17.12.0.nupkg.sha512",
